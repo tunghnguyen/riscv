@@ -1,1 +1,1 @@
-# RIISC Instruction Set Computer
+# RISCV Instruction Set Computer
